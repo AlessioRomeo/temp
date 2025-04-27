@@ -1,8 +1,0 @@
-/Users/alessiomaherromeobensalem/Desktop/sharenotes-backend-master/target/debug/deps/libderive_syn_parse-3fb22957dc5a5736.dylib: /Users/alessiomaherromeobensalem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive-syn-parse-0.2.0/src/lib.rs /Users/alessiomaherromeobensalem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive-syn-parse-0.2.0/src/error_macros.rs /Users/alessiomaherromeobensalem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive-syn-parse-0.2.0/src/fields.rs /Users/alessiomaherromeobensalem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive-syn-parse-0.2.0/src/variants.rs
-
-/Users/alessiomaherromeobensalem/Desktop/sharenotes-backend-master/target/debug/deps/derive_syn_parse-3fb22957dc5a5736.d: /Users/alessiomaherromeobensalem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive-syn-parse-0.2.0/src/lib.rs /Users/alessiomaherromeobensalem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive-syn-parse-0.2.0/src/error_macros.rs /Users/alessiomaherromeobensalem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive-syn-parse-0.2.0/src/fields.rs /Users/alessiomaherromeobensalem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive-syn-parse-0.2.0/src/variants.rs
-
-/Users/alessiomaherromeobensalem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive-syn-parse-0.2.0/src/lib.rs:
-/Users/alessiomaherromeobensalem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive-syn-parse-0.2.0/src/error_macros.rs:
-/Users/alessiomaherromeobensalem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive-syn-parse-0.2.0/src/fields.rs:
-/Users/alessiomaherromeobensalem/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/derive-syn-parse-0.2.0/src/variants.rs:
